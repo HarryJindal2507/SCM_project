@@ -7,7 +7,7 @@
 ## Collaborators
 1. Harry Jindal (2310990514) - HarryJindal2507
 2. Harsh (2310990514) - Chauhanharsh321
-3. Harshit Rana (2310990517) - harshitrana8272
+3. Harshit Rana (2310990517) - harshitrana8272 
 
 
 ## Installation
