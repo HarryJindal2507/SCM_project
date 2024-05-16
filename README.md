@@ -1,4 +1,4 @@
-# Source Code Management Project
+**# Source Code Management Project**
 
 ## Description
 
@@ -22,10 +22,11 @@ To use the source code management system:
 4. Start managing your projects, creating branches, and collaborating with your team.
 
 ## Contributing
-We welcome contributions from the community! To contribute to the project:
-1. Fork the repository.
-2. Clone your forked repository:
-3. Create a new branch for your feature or bug fix:
-4. Make changes and commit them:
-5. Push to your branch:
-6. Open a pull request to merge your changes into the main branch.
+We appreciate contributions from the community! To contribute to the project, follow these steps:
+
+1. **Fork** the repository.
+2. **Clone** your forked repository to your local machine.
+3. **Create** a new branch for your feature or bug fix.
+4. **Make** your changes and commit them.
+5. **Push** to your branch on your forked repository.
+6. **Open** a pull request to merge your changes into the main branch of the original repository.
