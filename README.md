@@ -1,6 +1,6 @@
 **# Source Code Management Project**
 
-## Description
+## Description 
 
 "This project is aimed at creating a portfolio for a team using modern technologies such as index.html for the frontend and style.css for the style. The portfolio will showcase the team's projects, skills, and achievements, providing a comprehensive overview for potential clients or employers. It will be designed to be user-friendly and visually appealing, offering a seamless browsing experience."
 
